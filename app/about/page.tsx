@@ -15,7 +15,7 @@ export default function AboutPage() {
         <h1 style={{ fontSize: "2.5rem", color: "#1f3a38", marginBottom: "1rem" }}>Adventure of Letoluo safari</h1>
         <p style={{ color: "#3d5a58", maxWidth: "600px", marginBottom: "2.5rem" }}>
           About Us
-Welcome to Adventure of Letoluo Safari
+
 At Adventure of Letoluo Safari, we believe that a safari is more than simply seeing wildlife — it is about experiencing the beauty, culture, landscapes and unforgettable moments of Kenya.
 We are a Kenya-based safari and travel company offering memorable wildlife adventures, cultural experiences and tailor-made tours. Our goal is to connect our guests with Kenya’s incredible natural heritage while providing a friendly, professional and personalized safari experience.</p>
 
