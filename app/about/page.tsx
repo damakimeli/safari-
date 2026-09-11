@@ -13,11 +13,12 @@ export default function AboutPage() {
       <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
         <p style={{ fontSize: "0.75rem", letterSpacing: "0.2em", textTransform: "uppercase", color: "#356B67", marginBottom: "0.75rem" }}>Who are we</p>
         <h1 style={{ fontSize: "2.5rem", color: "#1f3a38", marginBottom: "1rem" }}>Adventure of Letoluo safari</h1>
-        <p style={{ color: "#3d5a58", maxWidth: "600px", marginBottom: "2.5rem" }}>
-          About Us
-
+        <p style={{ color: "#3d5a58", maxWidth: "600px", marginBottom: "2.5rem" }}></p>
+         
+<h1 style={{ fontSize: "2.5rem", color: "#1f3a38", marginBottom: "1rem" }}> About Us</h1>
+Welcome to Adventure of Letoluo Safari, your gateway to unforgettable wildlife adventures and cultural experiences in Kenya. We are passionate about showcasing the natural beauty, rich culture and incredible wildlife of this remarkable country.
 At Adventure of Letoluo Safari, we believe that a safari is more than simply seeing wildlife — it is about experiencing the beauty, culture, landscapes and unforgettable moments of Kenya.
-We are a Kenya-based safari and travel company offering memorable wildlife adventures, cultural experiences and tailor-made tours. Our goal is to connect our guests with Kenya’s incredible natural heritage while providing a friendly, professional and personalized safari experience.</p>
+We are a Kenya-based safari and travel company offering memorable wildlife adventures, cultural experiences and tailor-made tours. Our goal is to connect our guests with Kenya’s incredible natural heritage while providing a friendly, professional and personalized safari experience.
 
 <h1 style={{ fontSize: "2.5rem", color: "#1f3a38", marginBottom: "1rem" }}>Experience</h1>
 Our knowledge of the Maasai Mara landscape, wildlife and local culture allows us to offer guests more than just a game drive. We help visitors understand the animals they see, their behavior, habitats and the important role conservation plays in protecting Kenya’s wildlife.
